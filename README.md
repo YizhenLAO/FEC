@@ -98,8 +98,8 @@ To see how the specification has been applied, see the [example-readmes]()(examp
 
 ## Maintainers
 
-[@ YizhenLAO ]()(https://github.com/RichardLitt).
-[@IfeiHsueh]()(https://github.com/IfeiHsueh).
+[@ YizhenLAO ][33]
+[@IfeiHsueh][34]
 
 ## Contributing
 
@@ -118,3 +118,5 @@ This project exists thanks to all the people who contribute.
 [MIT]()(LICENSE) © Yizhen LAO
 
 [2]:	https://img.shields.io/badge/awsome-code-green
+[33]:	https://github.com/RichardLitt
+[34]:	https://github.com/IfeiHsueh
