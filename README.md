@@ -1,7 +1,7 @@
 
 # FEC: Fast Euclidean Clustering for Point Cloud Segmentation
 
-[!\[awsome]()([https://img.shields.io/badge/awsome-code-green][2])](https://github.com/RichardLitt/standard-readme)
+![awsome][1](https://github.com/RichardLitt/standard-readme)
 
 This is the _official_ repository for _**FEC**_.
 
@@ -98,8 +98,8 @@ To see how the specification has been applied, see the [example-readmes]()(examp
 
 ## Maintainers
 
-[@ YizhenLAO ][33]
-[@IfeiHsueh][34]
+[@ YizhenLAO ][32]
+[@IfeiHsueh][33]
 
 ## Contributing
 
@@ -117,6 +117,6 @@ This project exists thanks to all the people who contribute.
 
 [MIT]()(LICENSE) © Yizhen LAO
 
-[2]:	https://img.shields.io/badge/awsome-code-green
-[33]:	https://github.com/RichardLitt
-[34]:	https://github.com/IfeiHsueh
+[1]:	https://img.shields.io/badge/awsome-code-green
+[32]:	https://github.com/RichardLitt
+[33]:	https://github.com/IfeiHsueh
