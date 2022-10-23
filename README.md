@@ -5,15 +5,12 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb)     
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master)
 
-<p> 
-  <a href="https://github.com/zhanghang1989?tab=followers"> <img src="https://img.shields.io/github/followers/zhanghang1989?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
-  <a href="https://hangzhang.org/"> <img src="https://img.shields.io/badge/&#8459-homepage-3875B7.svg?labelColor=21438A&style=plastic" height="25px" alt="Hang Zhang">
-  <a href="https://scholar.google.com/citations?user=gCoWdkUAAAAJ"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
-  <a href="mailto:zhang.hang@rutgers.edu"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email">
-  <a href="https://www.linkedin.com/in/zhanghang0704/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=plastic&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"> </a>
-  <a href="https://www.zhihu.com/people/zhanghang0704"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
-  <a href="https://hangzhang.org/cvHangZhang/cvHangZhang.pdf"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
-</p> 
+<a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://camo.githubusercontent.com/33126b4770aa6f169b2a93e75678d52647f19972fa8d205e478049966e3b1a07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d737461626c652d627269676874677265656e2e7376673f7374796c653d666c6174266c6f6e6743616368653d74727565
+"></a>
+<a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://camo.githubusercontent.com/33126b4770aa6f169b2a93e75678d52647f19972fa8d205e478049966e3b1a07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d737461626c652d627269676874677265656e2e7376673f7374796c653d666c6174266c6f6e6743616368653d74727565
+"></a>
+<a href="https://github.com/allegroai/clearml"><img src="https://camo.githubusercontent.com/f60861e75a851f69a1fb8a5c671ef233147b7781a13dae226dcc2c32166654c0/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f636c6561726d6c2e737667
+"></a>
 
 This is the _official_ repository for _**FEC**_.
 
