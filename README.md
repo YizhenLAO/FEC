@@ -2,6 +2,8 @@
 # FEC: Fast Euclidean Clustering for Point Cloud Segmentation
 
 ![awsome][1]
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb)     
+
 
 This is the _official_ repository for _**FEC**_.
 
@@ -118,5 +120,5 @@ This project exists thanks to all the people who contribute.
 [MIT]()(LICENSE) © Yizhen LAO
 
 [1]:	https://img.shields.io/badge/awsome-code-green
-[32]:	https://github.com/RichardLitt
+[32]:	https://github.com/YizhenLAO
 [33]:	https://github.com/IfeiHsueh
