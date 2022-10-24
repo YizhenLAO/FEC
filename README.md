@@ -1,7 +1,7 @@
 
 # FEC: Fast Euclidean Clustering for Point Cloud Segmentation
 
-[![Open In Colab][image-2]][2]  [![Binder][image-3]][3]
+[![Open In Colab][image-1]][1]  [![Binder][image-2]][2]
 
 <p>
 	<a href="https://github.com/sindresorhus/123"><img src="https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667"></a>
@@ -15,26 +15,25 @@ This is the _official_ repository for _**FEC**_.
 
 Segmentation from point cloud data is essential in many applications ,such as remote sensing, mobile robots, or autonomous cars. However, the point clouds captured by the 3D range sensor are commonly sparse and unstructured, challenging efficient segmentation. A fast solution for point cloud instance segmentation with small computational demands is lacking. To this end, we propose a novel fast Euclidean clustering (FEC) algorithm which applies a point-wise scheme over the cluster-wise scheme used in existing works. The proposed method avoids traversing every point constantly in each nested loop, which is time and memory-consuming. Our approach is conceptually simple, easy to implement (40 lines in C++), and achieves two orders of magnitudes faster against the classical segmentation methods while producing high-quality results.
 
-Code repository locate permenately at: [![here][https://github.com/YizhenLAO/FEC]]
+Code repository locate permenately at [here][3].
 
 **THIS REPOSITORY IN UNDER DAILY UPDATING!**
 
 ## Maintainers
 
-[@ YizhenLAO ][33]
-[@IfeiHsueh][34]
+[@ YizhenLAO ][4]
+[@IfeiHsueh][5]
 
 ## License
 
 [MIT]()(LICENSE) © Yizhen LAO
 
-[1]:	https://github.com/sindresorhus/awesome
-[2]:	https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb
-[3]:	https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master
-[33]:	https://github.com/YizhenLAO
-[34]:	https://github.com/IfeiHsueh
+[1]:	https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb
+[2]:	https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master
+[3]:	https://github.com/YizhenLAO/FEC
+[4]:	https://github.com/YizhenLAO
+[5]:	https://github.com/IfeiHsueh
 
 
-[image-1]:	https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667
-[image-2]:	https://colab.research.google.com/assets/colab-badge.svg
-[image-3]:	https://mybinder.org/badge_logo.svg
+[image-1]:	https://colab.research.google.com/assets/colab-badge.svg
+[image-2]:	https://mybinder.org/badge_logo.svg
