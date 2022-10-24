@@ -15,6 +15,8 @@ This is the _official_ repository for _**FEC**_.
 
 Segmentation from point cloud data is essential in many applications ,such as remote sensing, mobile robots, or autonomous cars. However, the point clouds captured by the 3D range sensor are commonly sparse and unstructured, challenging efficient segmentation. A fast solution for point cloud instance segmentation with small computational demands is lacking. To this end, we propose a novel fast Euclidean clustering (FEC) algorithm which applies a point-wise scheme over the cluster-wise scheme used in existing works. The proposed method avoids traversing every point constantly in each nested loop, which is time and memory-consuming. Our approach is conceptually simple, easy to implement (40 lines in C++), and achieves two orders of magnitudes faster against the classical segmentation methods while producing high-quality results.
 
+Code repository locate permenately at: [here]https://github.com/YizhenLAO/FEC
+
 **THIS REPOSITORY IN UNDER DAILY UPDATING!**
 
 ## Maintainers
