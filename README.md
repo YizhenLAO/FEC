@@ -73,7 +73,7 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 ```
 @article{cao2022fec,
   title = {FEC: Fast Euclidean Clustering for Point Cloud Segmentation},
-  author = {Yu Cao and Yancheng Wang and Huiqing Zhang and Yizhen Lao},
+  author = {Yu Cao and Yancheng Wang and Yifei Xue and Huiqing Zhang and Yizhen Lao},
   journal = {},
   publisher = {},
   year = {2022},
