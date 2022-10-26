@@ -52,6 +52,16 @@ To install the package directly from the current master branch of this repositor
 ```bash
 pip install git+https://github.com/YizhenLAO/FEC.git
 ```
+If you want to try implementing your own models or datasets, you’ll need an editable installation. For this, start by downloading or cloning the repository to your local machine. If you use git, you can run:
+```bash
+git clone https://github.com/YizhenLAO/FEC.git
+```
+If you don’t know git, you can also download the code from [here][10] and extract the zip-file.
+After you cloned or downloaded the zip-file, you’ll end up with a directory called “fec” (or “fec-master”). Next, we’ll go to that directory and install a local, editable copy of the package:
+```bash
+cd fec
+pip install -e .
+```
 
 ## Data
 
@@ -77,9 +87,9 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 
 ## Maintainers
 
-[@YizhenLAO][11]
-[@IfeiHsueh][12]
-[@Cyy-caoyu][13]
+[@YizhenLAO][12]
+[@IfeiHsueh][13]
+[@Cyy-caoyu][14]
 
 ## License
 
@@ -94,9 +104,10 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [7]:	#data
 [8]:	#citation
 [9]:	#maintainers
-[11]:	https://github.com/YizhenLAO
-[12]:	https://github.com/IfeiHsueh
-[13]:	https://github.com/Cyy-caoyu
+[10]:	https://github.com/YizhenLAO/FEC/archive/refs/heads/master.zip
+[12]:	https://github.com/YizhenLAO
+[13]:	https://github.com/IfeiHsueh
+[14]:	https://github.com/Cyy-caoyu
 
 
 [image-1]:	https://colab.research.google.com/assets/colab-badge.svg
