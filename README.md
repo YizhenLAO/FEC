@@ -25,8 +25,9 @@ Segmentation from point cloud data is essential in many applications ,such as re
 - [Background][4]
 - [Prerequisites][5]
 - [Installation][6]
-- [Citation][7]
-- [Maintainers][8]
+- [Data][7]
+- [Citation][8]
+- [Maintainers][9]
 
 ## Background
 
@@ -41,6 +42,18 @@ conda env create -f environment.yml
 ```
 
 ## Installation
+
+### Python installation
+There are two ways how you can install _**FEC**_: Editable or non-editable. If all you want to do is run experiments with existing datasets and existing models, you can use the non-editable installation. To install the latest release from PyPI:
+```bash
+pip install fec
+```
+To install the package directly from the current master branch of this repository, including any changes that are not yet part of a release, run:
+```bash
+pip install git+https://github.com/YizhenLAO/FEC.git
+```
+
+## Data
 
 ## Citation
 
@@ -64,9 +77,9 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 
 ## Maintainers
 
-[@YizhenLAO][10]
-[@IfeiHsueh][11]
-[@Cyy-caoyu][12]
+[@YizhenLAO][11]
+[@IfeiHsueh][12]
+[@Cyy-caoyu][13]
 
 ## License
 
@@ -78,11 +91,12 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [4]:	#background
 [5]:	#prerequisites
 [6]:	#installation
-[7]:	#citation
-[8]:	#maintainers
-[10]:	https://github.com/YizhenLAO
-[11]:	https://github.com/IfeiHsueh
-[12]:	https://github.com/Cyy-caoyu
+[7]:	#data
+[8]:	#citation
+[9]:	#maintainers
+[11]:	https://github.com/YizhenLAO
+[12]:	https://github.com/IfeiHsueh
+[13]:	https://github.com/Cyy-caoyu
 
 
 [image-1]:	https://colab.research.google.com/assets/colab-badge.svg
