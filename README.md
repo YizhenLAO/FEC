@@ -32,6 +32,11 @@ Segmentation from point cloud data is essential in many applications ,such as re
 
 In case you use _**FEC**_ in your research or work, it would be highly appreciated if you include a reference to our [paper][7] in any kind of publication.
 
+### latex
+
+### doi
+### APA
+
 ## Maintainers
 
 [@ YizhenLAO ][8]
@@ -44,9 +49,9 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [1]:	https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb
 [2]:	https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master
 [3]:	https://github.com/YizhenLAO/FEC
-[4]:	#Background
-[5]:	#Citation
-[6]:	#Maintainers
+[4]:	#background
+[5]:	#citation
+[6]:	#maintainers
 [7]:	#
 [8]:	https://github.com/YizhenLAO
 [9]:	https://github.com/IfeiHsueh
