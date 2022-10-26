@@ -24,8 +24,9 @@ Segmentation from point cloud data is essential in many applications ,such as re
 
 - [Background][4]
 - [Prerequisites][5]
-- [Citation][6]
-- [Maintainers][7]
+- [Installation][6]
+- [Citation][7]
+- [Maintainers][8]
 
 ## Background
 
@@ -38,6 +39,9 @@ The recommended way is to use Mini-/Anaconda and to create a new environment usi
 ```bash
 conda env create -f environment.yml
 ```
+
+## Installation
+
 ## Citation
 
 In case you use _**FEC**_ in your research or work, it would be highly appreciated if you include a reference to our [paper]() in any kind of publication.
@@ -60,9 +64,9 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 
 ## Maintainers
 
-[@YizhenLAO][9]
-[@IfeiHsueh][10]
-[@Cyy-caoyu][11]
+[@YizhenLAO][10]
+[@IfeiHsueh][11]
+[@Cyy-caoyu][12]
 
 ## License
 
@@ -73,11 +77,12 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [3]:	https://github.com/YizhenLAO/FEC
 [4]:	#background
 [5]:	#prerequisites
-[6]:	#citation
-[7]:	#maintainers
-[9]:	https://github.com/YizhenLAO
-[10]:	https://github.com/IfeiHsueh
-[11]:	https://github.com/Cyy-caoyu
+[6]:	#installation
+[7]:	#citation
+[8]:	#maintainers
+[10]:	https://github.com/YizhenLAO
+[11]:	https://github.com/IfeiHsueh
+[12]:	https://github.com/Cyy-caoyu
 
 
 [image-1]:	https://colab.research.google.com/assets/colab-badge.svg
