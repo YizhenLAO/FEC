@@ -23,6 +23,7 @@ Segmentation from point cloud data is essential in many applications ,such as re
 ## Table of Contents
 
 - [Background](#Background)
+- [Maintainers](#Maintainers)
 
 ## Background
 
