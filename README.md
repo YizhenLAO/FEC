@@ -49,8 +49,9 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 
 ## Maintainers
 
-[@ YizhenLAO ][8]
+[@YizhenLAO][8]
 [@IfeiHsueh][9]
+[@Cyy-caoyu][10]
 
 ## License
 
@@ -64,6 +65,7 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [6]:	#maintainers
 [8]:	https://github.com/YizhenLAO
 [9]:	https://github.com/IfeiHsueh
+[10]:	https://github.com/Cyy-caoyu
 
 
 [image-1]:	https://colab.research.google.com/assets/colab-badge.svg
