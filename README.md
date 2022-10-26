@@ -10,14 +10,19 @@
 	<a href="https://github.com/allegroai/clearml"><img src="https://camo.githubusercontent.com/f60861e75a851f69a1fb8a5c671ef233147b7781a13dae226dcc2c32166654c0/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f636c6561726d6c2e737667"></a>
 </p>
 
-This is the _official_ repository for _**FEC**_.
+Language: English / [Chinese](./README_CN.md)
 
+This is the _official_ repository for _**FEC**_.
 
 Segmentation from point cloud data is essential in many applications ,such as remote sensing, mobile robots, or autonomous cars. However, the point clouds captured by the 3D range sensor are commonly sparse and unstructured, challenging efficient segmentation. A fast solution for point cloud instance segmentation with small computational demands is lacking. To this end, we propose a novel fast Euclidean clustering (FEC) algorithm which applies a point-wise scheme over the cluster-wise scheme used in existing works. The proposed method avoids traversing every point constantly in each nested loop, which is time and memory-consuming. Our approach is conceptually simple, easy to implement (40 lines in C++), and achieves two orders of magnitudes faster against the classical segmentation methods while producing high-quality results.
 
 Code repository locate permenately at [here][3].
 
 **THIS REPOSITORY IN UNDER DAILY UPDATING!**
+
+## Table of Contents
+
+## Background
 
 ## Maintainers
 
