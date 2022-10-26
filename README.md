@@ -23,37 +23,42 @@ Segmentation from point cloud data is essential in many applications ,such as re
 ## Table of Contents
 
 - [Background][4]
-- [Citation][5]
-- [Maintainers][6]
+- [Prerequisites][5]
+- [Citation][6]
+- [Maintainers][7]
 
 ## Background
 
-## Citation
+## Prerequisites
+
+In order to apply the _**FEC**_ to varies programming language environment, we provide _C++_, _Python_, and _Matlab_ style codes for implementation.
+### C++ environment
+### Python environment
+The recommended way is to use Mini-/Anaconda and to create a new environment using:
+`
+`## Citation
 
 In case you use _**FEC**_ in your research or work, it would be highly appreciated if you include a reference to our [paper]() in any kind of publication.
 
 ### latex
-```
-@article{cao2022fec,
-  title = {FEC: Fast Euclidean Clustering for Point Cloud Segmentation},
-  author = {Yu Cao and Yancheng Wang and Huiqing Zhang and Yizhen Lao},
-  journal = {},
-  publisher = {},
-  year = {2022},
-  volume = {},
-  number = {},
-  pages = {},
-  doi = {10.48550/arXiv.2208.07678},
-  url = {https://doi.org/10.48550/arXiv.2208.07678}
-}
-```
-### APA
+	@article{cao2022fec,
+	  title = {FEC: Fast Euclidean Clustering for Point Cloud Segmentation},
+	  author = {Yu Cao and Yancheng Wang and Huiqing Zhang and Yizhen Lao},
+	  journal = {},
+	  publisher = {},
+	  year = {2022},
+	  volume = {},
+	  number = {},
+	  pages = {},
+	  doi = {10.48550/arXiv.2208.07678},
+	  url = {https://doi.org/10.48550/arXiv.2208.07678}
+	}
 
 ## Maintainers
 
-[@YizhenLAO][8]
-[@IfeiHsueh][9]
-[@Cyy-caoyu][10]
+[@YizhenLAO][9]
+[@IfeiHsueh][10]
+[@Cyy-caoyu][11]
 
 ## License
 
@@ -63,11 +68,12 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [2]:	https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master
 [3]:	https://github.com/YizhenLAO/FEC
 [4]:	#background
-[5]:	#citation
-[6]:	#maintainers
-[8]:	https://github.com/YizhenLAO
-[9]:	https://github.com/IfeiHsueh
-[10]:	https://github.com/Cyy-caoyu
+[5]:	#prerequisites
+[6]:	#citation
+[7]:	#maintainers
+[9]:	https://github.com/YizhenLAO
+[10]:	https://github.com/IfeiHsueh
+[11]:	https://github.com/Cyy-caoyu
 
 
 [image-1]:	https://colab.research.google.com/assets/colab-badge.svg
