@@ -33,7 +33,7 @@ Segmentation from point cloud data is essential in many applications ,such as re
 In case you use _**FEC**_ in your research or work, it would be highly appreciated if you include a reference to our [paper]() in any kind of publication.
 
 ### latex
-``
+```
 @article{cao2022fec,
   title = {FEC: Fast Euclidean Clustering for Point Cloud Segmentation},
   author = {Yu Cao and Yancheng Wang and Huiqing Zhang and Yizhen Lao},
@@ -46,7 +46,7 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
   doi = {10.48550/arXiv.2208.07678},
   url = {https://doi.org/10.48550/arXiv.2208.07678}
 }
-``
+```
 ### APA
 
 ## Maintainers
