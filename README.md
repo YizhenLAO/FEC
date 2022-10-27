@@ -26,8 +26,9 @@ Segmentation from point cloud data is essential in many applications ,such as re
 - [Prerequisites][5]
 - [Installation][6]
 - [Data][7]
-- [Citation][8]
-- [Maintainers][9]
+- [Examples][8]
+- [Citation][9]
+- [Maintainers][10]
 
 ## Background
 
@@ -43,9 +44,15 @@ $ conda env create -f environment.yml
 
 ## Installation
 
+### C++ installation
+If you are interested in building everything locally, it is recommended using [Docker][11]. To build, simply run:
+```sh
+$ make build
+```
+
 ### Python installation
 There are two ways how you can install _**FEC**_: Editable or non-editable. If all you want to do is run experiments with existing datasets and existing models, you can use the non-editable installation. To install the latest release from PyPI:
-```bash
+```sh
 $ pip install fec(not registered yet)
 ```
 To install the package directly from the current master branch of this repository, including any changes that are not yet part of a release, run:
@@ -56,7 +63,7 @@ If you want to try implementing your own models or datasets, you’ll need an ed
 ```sh
 $ git clone https://github.com/YizhenLAO/FEC.git
 ```
-If you don’t know git, you can also download the code from [here][10] and extract the zip-file.
+If you don’t know git, you can also download the code from [here][12] and extract the zip-file.
 After you cloned or downloaded the zip-file, you’ll end up with a directory called “fec” (or “fec-master”). Next, we’ll go to that directory and install a local, editable copy of the package:
 ```sh
 $ cd fec
@@ -64,6 +71,8 @@ $ pip install -e .
 ```
 
 ## Data
+
+## Examples
 
 ## Citation
 
@@ -87,9 +96,9 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 
 ## Maintainers
 
-[@YizhenLAO][12]
-[@IfeiHsueh][13]
-[@Cyy-caoyu][14]
+[@YizhenLAO][14]
+[@IfeiHsueh][15]
+[@Cyy-caoyu][16]
 
 ## License
 
@@ -102,12 +111,14 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [5]:	#prerequisites
 [6]:	#installation
 [7]:	#data
-[8]:	#citation
-[9]:	#maintainers
-[10]:	https://github.com/YizhenLAO/FEC/archive/refs/heads/master.zip
-[12]:	https://github.com/YizhenLAO
-[13]:	https://github.com/IfeiHsueh
-[14]:	https://github.com/Cyy-caoyu
+[8]:	#examples
+[9]:	#citation
+[10]:	#maintainers
+[11]:	https://docs.docker.com/get-docker/
+[12]:	https://github.com/YizhenLAO/FEC/archive/refs/heads/master.zip
+[14]:	https://github.com/YizhenLAO
+[15]:	https://github.com/IfeiHsueh
+[16]:	https://github.com/Cyy-caoyu
 
 
 [image-1]:	https://colab.research.google.com/assets/colab-badge.svg
