@@ -45,8 +45,8 @@ $ conda env create -f environment.yml
 
 ### Python installation
 There are two ways how you can install _**FEC**_: Editable or non-editable. If all you want to do is run experiments with existing datasets and existing models, you can use the non-editable installation. To install the latest release from PyPI:
-```sh
-$ pip install fec
+```bash
+$ pip install fec(not registered yet)
 ```
 To install the package directly from the current master branch of this repository, including any changes that are not yet part of a release, run:
 ```sh
