@@ -14,7 +14,7 @@
 
 This is the _official_ repository for _**FEC**_.
 
-Code repository locate permenately at [here][3].
+> Code repository locate permenately at [here][3].
 
 **THIS REPOSITORY IN UNDER DAILY UPDATING!**
 
