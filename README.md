@@ -27,8 +27,11 @@ Segmentation from point cloud data is essential in many applications ,such as re
 - [Installation][6]
 - [Data][7]
 - [Examples][8]
-- [Citation][9]
-- [Maintainers][10]
+	- [C++ code example][9]
+	- [Python code example][10]
+	- [Matlab code example][11]
+- [Citation][12]
+- [Maintainers][13]
 
 ## Background
 
@@ -45,7 +48,7 @@ $ conda env create -f environment.yml
 ## Installation
 
 ### C++ installation
-If you are interested in building everything locally, it is recommended using [Docker][11]. To build, simply run:
+If you are interested in building everything locally, it is recommended using [Docker][14]. To build, simply run:
 ```sh
 $ make build
 ```
@@ -63,7 +66,7 @@ If you want to try implementing your own models or datasets, you’ll need an ed
 ```sh
 $ git clone https://github.com/YizhenLAO/FEC.git
 ```
-If you don’t know git, you can also download the code from [here][12] and extract the zip-file.
+If you don’t know git, you can also download the code from [here][15] and extract the zip-file.
 After you cloned or downloaded the zip-file, you’ll end up with a directory called “fec” (or “fec-master”). Next, we’ll go to that directory and install a local, editable copy of the package:
 ```sh
 $ cd fec
@@ -102,9 +105,9 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 
 ## Maintainers
 
-[@YizhenLAO][14]
-[@IfeiHsueh][15]
-[@Cyy-caoyu][16]
+[@YizhenLAO][17]
+[@IfeiHsueh][18]
+[@Cyy-caoyu][19]
 
 ## License
 
@@ -118,13 +121,16 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [6]:	#installation
 [7]:	#data
 [8]:	#examples
-[9]:	#citation
-[10]:	#maintainers
-[11]:	https://docs.docker.com/get-docker/
-[12]:	https://github.com/YizhenLAO/FEC/archive/refs/heads/master.zip
-[14]:	https://github.com/YizhenLAO
-[15]:	https://github.com/IfeiHsueh
-[16]:	https://github.com/Cyy-caoyu
+[9]:	#c-code-example
+[10]:	python-code-example
+[11]:	#matlab-code-example
+[12]:	#citation
+[13]:	#maintainers
+[14]:	https://docs.docker.com/get-docker/
+[15]:	https://github.com/YizhenLAO/FEC/archive/refs/heads/master.zip
+[17]:	https://github.com/YizhenLAO
+[18]:	https://github.com/IfeiHsueh
+[19]:	https://github.com/Cyy-caoyu
 
 
 [image-1]:	https://colab.research.google.com/assets/colab-badge.svg
