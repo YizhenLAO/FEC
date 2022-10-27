@@ -37,30 +37,30 @@ In order to apply the _**FEC**_ to varies programming language environment, we p
 ### C++ environment
 ### Python environment
 The recommended way is to use Mini-/Anaconda and to create a new environment using:
-```bash
-conda env create -f environment.yml
+```sh
+$ conda env create -f environment.yml
 ```
 
 ## Installation
 
 ### Python installation
 There are two ways how you can install _**FEC**_: Editable or non-editable. If all you want to do is run experiments with existing datasets and existing models, you can use the non-editable installation. To install the latest release from PyPI:
-```bash
-pip install fec
+```sh
+$ pip install fec
 ```
 To install the package directly from the current master branch of this repository, including any changes that are not yet part of a release, run:
-```bash
-pip install git+https://github.com/YizhenLAO/FEC.git
+```sh
+$ pip install git+https://github.com/YizhenLAO/FEC.git
 ```
 If you want to try implementing your own models or datasets, you’ll need an editable installation. For this, start by downloading or cloning the repository to your local machine. If you use git, you can run:
-```bash
-git clone https://github.com/YizhenLAO/FEC.git
+```sh
+$ git clone https://github.com/YizhenLAO/FEC.git
 ```
 If you don’t know git, you can also download the code from [here][10] and extract the zip-file.
 After you cloned or downloaded the zip-file, you’ll end up with a directory called “fec” (or “fec-master”). Next, we’ll go to that directory and install a local, editable copy of the package:
-```bash
-cd fec
-pip install -e .
+```sh
+$ cd fec
+$ pip install -e .
 ```
 
 ## Data
@@ -70,7 +70,7 @@ pip install -e .
 In case you use _**FEC**_ in your research or work, it would be highly appreciated if you include a reference to our [paper]() in any kind of publication.
 
 ### latex
-```
+```latex
 @article{cao2022fec,
   title = {FEC: Fast Euclidean Clustering for Point Cloud Segmentation},
   author = {Yu Cao and Yancheng Wang and Yifei Xue and Huiqing Zhang and Yizhen Lao},
