@@ -14,7 +14,7 @@
 
 This is the _official_ repository for _**FEC**_.
 
-> Code repository locate permenately at [here][3].
+Code repository locate permenately at [here][3].
 
 **THIS REPOSITORY IN UNDER DAILY UPDATING!**
 
@@ -69,7 +69,7 @@ $ pip install -e .
 
 In case you use _**FEC**_ in your research or work, it would be highly appreciated if you include a reference to our [paper]() in any kind of publication.
 
-### latex
+> latex
 ```latex
 @article{cao2022fec,
   title = {FEC: Fast Euclidean Clustering for Point Cloud Segmentation},
