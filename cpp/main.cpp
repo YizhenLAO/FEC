@@ -31,7 +31,7 @@ int main() {
     unsigned long long size,i = 0,j = 0;
 
     // replace your data path here
-    readerPLY.read("D:\\cloud\\kitti\\004093_004408.ply", *cloud);
+    readerPLY.read("./data/street.ply", *cloud);
     size = cloud->size();
     std::cout << "PointCloud has: " << size << " data points." << std::endl;
 
