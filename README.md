@@ -1,4 +1,4 @@
-![][image-1]
+![FEC slogan][image-1]
 # FEC: Fast Euclidean Clustering for Point Cloud Segmentation
 
 [![Open In Colab][image-2]][1]  [![Binder][image-3]][2]
@@ -139,6 +139,6 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [21]:	https://github.com/Cyy-caoyu
 
 
-[image-1]:	.%5C%5Cimage%5C%5Cslogan.pdf
+[image-1]:	./images/slogan.png
 [image-2]:	https://colab.research.google.com/assets/colab-badge.svg
 [image-3]:	https://mybinder.org/badge_logo.svg
