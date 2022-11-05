@@ -76,6 +76,7 @@ $ pip install -e .
 ## Data
 
 Please download demo data from:
+
 [Google Drive][16] or [Baidu Netdisk ][17] (code: ffd6)
 
 ## Examples
@@ -133,7 +134,7 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [14]:	https://docs.docker.com/get-docker/
 [15]:	https://github.com/YizhenLAO/FEC/archive/refs/heads/master.zip
 [16]:	https://drive.google.com/drive/folders/1bo3eZW3AwYr3ael_BS5a6Ear7DZ3jb2D?usp=share_link
-[17]:	%E9%93%BE%E6%8E%A5:%20https://pan.baidu.com/s/1xAFXlvLu0UqiVScu68AQiA?pwd=ffd6
+[17]:	https://pan.baidu.com/s/1y9b5NwF0XC0RqcfKWzSRKQ?pwd=qtbe
 [19]:	https://github.com/YizhenLAO
 [20]:	https://github.com/IfeiHsueh
 [21]:	https://github.com/Cyy-caoyu
