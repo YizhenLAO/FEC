@@ -1,7 +1,7 @@
-<img src=“./images/slogan.pdf”>
+![][image-1]
 # FEC: Fast Euclidean Clustering for Point Cloud Segmentation
 
-[![Open In Colab][image-1]][1]  [![Binder][image-2]][2]
+[![Open In Colab][image-2]][1]  [![Binder][image-3]][2]
 
 <p>
 	<a href="https://github.com/sindresorhus/123"><img src="https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667"></a>
@@ -139,5 +139,6 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [21]:	https://github.com/Cyy-caoyu
 
 
-[image-1]:	https://colab.research.google.com/assets/colab-badge.svg
-[image-2]:	https://mybinder.org/badge_logo.svg
+[image-1]:	.%5C%5Cimage%5C%5Cslogan.pdf
+[image-2]:	https://colab.research.google.com/assets/colab-badge.svg
+[image-3]:	https://mybinder.org/badge_logo.svg
