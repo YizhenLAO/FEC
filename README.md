@@ -75,6 +75,9 @@ $ pip install -e .
 
 ## Data
 
+Please download demo data from:
+[Google Drive][16] or [Baidu Netdisk ][17] (code: ffd6)
+
 ## Examples
 
 ### C++ code example
@@ -106,9 +109,9 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 
 ## Maintainers
 
-[@YizhenLAO][17]
-[@IfeiHsueh][18]
-[@Cyy-caoyu][19]
+[@YizhenLAO][19]
+[@IfeiHsueh][20]
+[@Cyy-caoyu][21]
 
 ## License
 
@@ -129,9 +132,11 @@ In case you use _**FEC**_ in your research or work, it would be highly appreciat
 [13]:	#maintainers
 [14]:	https://docs.docker.com/get-docker/
 [15]:	https://github.com/YizhenLAO/FEC/archive/refs/heads/master.zip
-[17]:	https://github.com/YizhenLAO
-[18]:	https://github.com/IfeiHsueh
-[19]:	https://github.com/Cyy-caoyu
+[16]:	https://drive.google.com/drive/folders/1bo3eZW3AwYr3ael_BS5a6Ear7DZ3jb2D?usp=share_link
+[17]:	%E9%93%BE%E6%8E%A5:%20https://pan.baidu.com/s/1xAFXlvLu0UqiVScu68AQiA?pwd=ffd6
+[19]:	https://github.com/YizhenLAO
+[20]:	https://github.com/IfeiHsueh
+[21]:	https://github.com/Cyy-caoyu
 
 
 [image-1]:	https://colab.research.google.com/assets/colab-badge.svg
