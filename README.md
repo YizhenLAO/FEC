@@ -1,4 +1,4 @@
-
+<img src=“./images/slogan.pdf”>
 # FEC: Fast Euclidean Clustering for Point Cloud Segmentation
 
 [![Open In Colab][image-1]][1]  [![Binder][image-2]][2]
@@ -77,8 +77,7 @@ $ pip install -e .
 
 Please download demo data from:
 
-[Google Drive][16] or [Baidu Netdisk ][17] (code: ffd6)
-
+[Google Drive][16] or [Baidu Netdisk ][17]
 ## Examples
 
 ### C++ code example
